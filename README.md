@@ -6,3 +6,5 @@ Sometimes otaku coder loves to name their own code with loved things. This is so
   - character "Homura Akemi" from animation "Puella Magi Madoka Magica"
 - [disjukr/makise](https://github.com/disjukr/makise) [![GitHub stars](https://img.shields.io/github/stars/disjukr/makise.svg)](https://github.com/disjukr/makise/stargazers) - pretty JSON schema definition language
   - character "Kurisu Makise" from game "Steins;Gate"
+- [kjwon15/nagato](https://github.com/Kjwon15/nagato) [![GitHub stars](https://img.shields.io/github/stars/Kjwon15/nagato.svg)](https://github.com/Kjwon15/nagato/stargazers) - A local proxy that bypass warning.or.kr in korea
+  - character "長門ゆき" from anime "涼宮ハルヒの憂鬱"
